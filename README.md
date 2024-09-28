@@ -4,3 +4,4 @@ This repository contains several patterns that can improve programming skills an
 2. Square Pattern
 3. Hollow Rectangle
 4. Half Pyramid
+5. Inverted-Half Pyramid
