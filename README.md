@@ -9,3 +9,4 @@ This repository contains several patterns that can improve programming skills an
 7. Inverted Numeric Half Pyramid
 8. Full Pyramid
 9. Inverted Full Pyramid
+10. Solid-Diamond
